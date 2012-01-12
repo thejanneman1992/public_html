@@ -1,0 +1,12 @@
+@import url('home2.css');
+body {background-image:url("background.jpg");font-family: Arial, Verdana, sans-serif;} 
+a{color:white;font-size:large;font-weight:bolder;font-family: Arial, Verdana, sans-serif;}
+#main{margin: 0px auto; width:1000px; height: 1200px;}
+#header{padding-left:20px;padding-right:20px;margin: 1% 1%; height: 150px;}
+#logo{float:left; margin: 1% 1%; width: 252px;height:130px;background-image:url('logo2.png');}
+#menu{float:right; margin: 90px 1% 1% 5%; height:;width:65%; text-align: center; font-size:100%;font-color:white;background-image:url('balk4.png');
+background-repeat:repeat-x;}
+#rechterbox{float:right; margin:1%; width:25%; height:750px;}
+#login{margin:18% 10% 10% 10%; height:50%;background-image:url("login.png");}
+#winkelwagen{margin: 10%; height: 50%;background-image:url("wagentje.png");}
+#frame{float:left;margin: 1% 1% 1% 1%; height:1000px; width:705px;} 
